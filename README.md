@@ -6,15 +6,20 @@ I've recently developed a user-friendly Java program to manage contact informati
 
 
 User interaction through console prompts
+
 Add, view, edit, and delete contact details
+
 In-memory storage for contact information
 
 
 🔧 Technical Skills Demonstrated:
 
 Java Programming
+
 Basic user input handling
+
 Function implementation for contact management
+
 Console-based user interface design
 
 Big Thank you to Prodigy InfoTech!
